@@ -1,0 +1,1000 @@
+ 1018  sudo minicom
+ 1019  /dev/ttyUSB0
+ 1020  sudo minicom -s
+ 1021  sudo minicom
+ 1022  sudo minicom -s
+ 1023  sudo minicom
+ 1024  sudo apt install minicom
+ 1025  sudo dmesg | tail
+ 1026  reboot
+ 1027  sudo apt install minicom
+ 1028  sudo dmesg | tail
+ 1029  sudo apt unistall minicom
+ 1030  sudo apt install minicom
+ 1031  sudo apt autoremove
+ 1032  sudo apt install minicom
+ 1033  sudo dmesg | tail
+ 1034  sudo apt remove brltty
+ 1035  sudo dmesg | tail
+ 1036  sudo apt install minicom
+ 1037  sudo minicom -s
+ 1038  sudo minicom
+ 1039  sudo apt install minicom
+ 1040  reboot
+ 1041  sudo minicom -s
+ 1042  sudo minicom
+ 1043  lsusb
+ 1044  sudo apt remove brltty
+ 1045  sudo apt update
+ 1046  lsusb
+ 1047  ls /dev
+ 1048  sudo minicom -s
+ 1049  sudo minicom 
+ 1050  reboot
+ 1051  sudo minicom
+ 1052  sudo apt remove brltty
+ 1053  reboot
+ 1054  sudo apt update
+ 1055  sudo minicom
+ 1056  ls /dev/tty
+ 1057  ls /dev
+ 1058  sudo minicom
+ 1059  sudo apt remove minicom
+ 1060  sudo dmesg | tail
+ 1061  sudo dmesg 
+ 1062  sudo /dev/tty*
+ 1063  ls /dev/ttyUSB0
+ 1064  sudo ls /dev/ttyUSB0
+ 1065  sudo  /dev/ttyUSB0
+ 1066  lsusb
+ 1067  sudo minicom
+ 1068  sudo apt-get install minicom
+ 1069  sudo minicom
+ 1070  lsusb
+ 1071  git pull
+ 1072  git pull
+ 1073  clear
+ 1074  git pull
+ 1075  clear
+ 1076  lsusb
+ 1077  sudo minicom
+ 1078  git add  .
+ 1079  git commit -m "mcpi_assignment"
+ 1080  git push
+ 1081  sudo minicon
+ 1082  sudo minicom
+ 1083  lsusb
+ 1084  sudo minicom
+ 1085  git pull
+ 1086  clear
+ 1087  git pull
+ 1088  clear
+ 1089  git pull
+ 1090  clear
+ 1091  git pull
+ 1092  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1093  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1094  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1095  git pull
+ 1096  sudo minicom
+ 1097  sudo minicom\
+ 1098  sudo minicom
+ 1099  git pull
+ 1100  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1101  git pull
+ 1102  sudo minicom
+ 1103  lsusb
+ 1104  git pull
+ 1105  git pull
+ 1106  clear
+ 1107  git pull
+ 1108  clear
+ 1109  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1110  git pull
+ 1111  sudo minicom
+ 1112  Sudo minicocom
+ 1113  clear
+ 1114  sudo minicom
+ 1115  git add .
+ 1116  git add  .
+ 1117  git add .
+ 1118  git clone
+ 1119  git clone https://github.com/E1-RAHUL-87357/MCPI_Assignment_Solution.git
+ 1120  git add .
+ 1121  clear\
+ 1122  clear
+ 1123  git add .
+ 1124  git commit -m "MCPI_Assignment"
+ 1125  git push
+ 1126  git clone https://github.com/E1-RAHUL-87357/MCPI_Assignment_Solution.git
+ 1127  git pull
+ 1128  git add .
+ 1129  git commit -m "MCPI_Assignment"
+ 1130  git push
+ 1131  rshakya333
+ 1132  clear
+ 1133  git add .
+ 1134  git commit -m "MCPI_assignment"
+ 1135  git add .
+ 1136  git commit -m "mcpi_assignment"
+ 1137  git push
+ 1138  git add .
+ 1139  git commit -m "MCPI_assignment"
+ 1140  git push
+ 1141  git add  .
+ 1142  git commit -m "MCPI_Assignment_Solution"
+ 1143  git push
+ 1144  git pull
+ 1145  clear
+ 1146  git pull
+ 1147  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1148  clear
+ 1149  git pull
+ 1150  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1151  lsusb
+ 1152  sudo minicom
+ 1153  clear
+ 1154  sudo minicom
+ 1155  lsusb
+ 1156  sudo minicom
+ 1157  clear
+ 1158  sudo minicom
+ 1159  git add .
+ 1160  git commit -m "MCPI_assignments"
+ 1161  git push
+ 1162  lsusb
+ 1163  git add .
+ 1164  git commit -m "MCPI_Assignment"
+ 1165  git push
+ 1166  git pull
+ 1167  ls
+ 1168  make
+ 1169  sudo apt install make
+ 1170  make
+ 1171  ls
+ 1172  make run
+ 1173  make debug
+ 1174  sudo apt install qemu-system-arm
+ 1175  vim ~/.bashrc
+ 1176  lsusb
+ 1177  sudo minicom
+ 1178  git push
+ 1179  git clone http://github.com/sunbeam-desd-aug24/mcpi.git
+ 1180  git pull
+ 1181  git push
+ 1182  git pull
+ 1183  git clone
+ 1184  git clone http://github.com/sunbeam-desd-aug24/dsa.git
+ 1185  gcc binary_search.c
+ 1186  [200~#include<stdio.h>
+ 1187  #define SIZE 9
+ 1188  int comparisons;
+ 1189  int binary_search(int arr[SIZE],int key);
+ 1190  int rec_binary_search(int arr[SIZE],int key,int left, int right);
+ 1191  int main()
+ 1192  {     int arr[SIZE] = {11,22,33,44,55,66,77,88,99};     int key;     printf("Enter the Key to Search :");
+ 1193  }
+ 1194  int binary_search(int arr[SIZE],int key) // 6
+ 1195  {     int left = 0, right = SIZE-1, mid; while(left <= right) // (0 <= 8)  (5 <= 8) ( 5<=5)
+ 1196  {     mid = (left + right) / 2; // 4 : 6 : 5
+ 1197  }
+ 1198  return -1; // key not found
+ 1199  }
+ 1200  int rec_binary_search(int arr[SIZE],int key,int left, int right)
+ 1201  {     int mid, res;     if(left > right)    ;         return -1;     mid = (left + right) / 2;
+ 1202  . code
+ 1203  code .
+ 1204  gcc binary_search.c
+ 1205  gcc binary_search.c
+ 1206  ./a.out
+ 1207  gcc Linear_search.c
+ 1208  ./a.out
+ 1209  git pull
+ 1210  git push
+ 1211  git add .
+ 1212  git commit -m "MCPI_Assignment"
+ 1213  git push
+ 1214  gcc Linear_search.c
+ 1215  gcc binary_search.c
+ 1216  clear
+ 1217  gcc binary_search.c
+ 1218  clear
+ 1219  gcc binary_search.c
+ 1220  clear
+ 1221  gcc binary_search.c
+ 1222  clear
+ 1223  gcc binary_search.c
+ 1224  clear
+ 1225  gcc binary_search.c
+ 1226  clear
+ 1227  gcc binary_search.c
+ 1228  clear
+ 1229  gcc binary_search.c
+ 1230  clear
+ 1231  gcc binary_search.c
+ 1232  clear
+ 1233  gcc binary_search.c
+ 1234  clear
+ 1235  gcc binary_search.c
+ 1236  clear
+ 1237  gcc binary_search.c
+ 1238  clear
+ 1239  gcc binary_search.c
+ 1240  clear
+ 1241  gcc binary_search.c
+ 1242  clear
+ 1243  gcc Linear_search.c
+ 1244  clear
+ 1245  gcc binary_search.c
+ 1246  clear
+ 1247  gcc binary_search.c
+ 1248  git pull
+ 1249  gcc Linear_search.c
+ 1250  ./a.out
+ 1251  clear
+ 1252  gcc Linear_search.c
+ 1253  clear
+ 1254  Linear_Que.c
+ 1255  clear
+ 1256  gcc Linear_Que.c
+ 1257  clear
+ 1258  gcc Linear_Que.c
+ 1259  clear
+ 1260  gcc Linear_Que.c
+ 1261  clear
+ 1262  gcc Linear_Que.c
+ 1263  clear
+ 1264  gcc Linear_Que.c
+ 1265  clear
+ 1266  gcc Linear_Que.c
+ 1267  clear
+ 1268  gcc Linear_Que.c
+ 1269  clear
+ 1270  gcc Linear_Que.c
+ 1271  clear
+ 1272  gcc Linear_Que.c
+ 1273  .\a,out
+ 1274  clear
+ 1275  .\a.out
+ 1276  clear
+ 1277  gcc Linear_Que.c
+ 1278  ./a.out
+ 1279  2
+ 1280  git pull
+ 1281  clear
+ 1282  git pull
+ 1283  clear
+ 1284  gcc practice_insertion_sort.c
+ 1285  gcc Practice_insertion_sort.c
+ 1286  clear
+ 1287  gcc Practice_insertion_sort.c
+ 1288  ./a.out
+ 1289  clear
+ 1290  gcc insertion_sort.c
+ 1291  clear
+ 1292  gcc Practice_insertion_sort.c
+ 1293  ./a.out
+ 1294  .c
+ 1295  code .
+ 1296  gcc bubble_sort.c
+ 1297  ./a.out
+ 1298  git pull
+ 1299  code .c
+ 1300  ./a.out
+ 1301  gcc day3_1.c
+ 1302  ./a.out
+ 1303  1
+ 1304  ./a.out
+ 1305  code .
+ 1306  gcc stack.c
+ 1307  clear
+ 1308  gcc Day3_assignment1.c
+ 1309  clear
+ 1310  gcc Day3_assignment1.c
+ 1311  clear
+ 1312  gcc Day3_assignment1.c
+ 1313  clear
+ 1314  gcc Day3_assignment1.c
+ 1315  clear
+ 1316  gcc Day3_assignment1.c
+ 1317  clear
+ 1318  gcc Day3_assignment1.c
+ 1319  clear
+ 1320  gcc Day3_assignment1.c
+ 1321  clear
+ 1322  gcc Day3_assignment1.c
+ 1323  clear
+ 1324  gcc Day3_assignment1.c
+ 1325  .a/.out
+ 1326  gcc Day3_1.c
+ 1327  gcc Day3_assignment1.c
+ 1328  .a/.out
+ 1329  clear
+ 1330  gcc Day3_assignment1.c
+ 1331  .a/.out
+ 1332  ./a.out
+ 1333  clear
+ 1334  ./a.out
+ 1335  gcc Day3_assignment1.c
+ 1336  ./a.out
+ 1337  gcc Day3_assignment1.c
+ 1338  clear
+ 1339  gcc Day3_assignment1.c
+ 1340  clear
+ 1341  gcc Day3_assignment1.c
+ 1342  clear
+ 1343  gcc Day3_assignment1.c
+ 1344  clear
+ 1345  gcc Day3_assignment1.c
+ 1346  clear
+ 1347  gcc Day3_assignment1.c
+ 1348  clearr
+ 1349  clear
+ 1350  gcc Day3_assignment1.c
+ 1351  clear
+ 1352  gcc Day3_assignment1.c
+ 1353  clear
+ 1354  gcc Day3_assignment1.c
+ 1355  clear
+ 1356  gcc Day3_assignment1.c
+ 1357  clear
+ 1358  gcc Day3_assignment1.c
+ 1359  clear
+ 1360  gcc Day3_assignment1.c
+ 1361  clear
+ 1362  gcc Day3_assignment1.c
+ 1363  clear
+ 1364  gcc Day3_assignment1.c
+ 1365  clear
+ 1366  gcc Day3_assignment1.c
+ 1367  clear
+ 1368  gcc Day3_assignment1.c
+ 1369  clear
+ 1370  gcc Day3_assignment1.c
+ 1371  clear
+ 1372  gcc Day3_assignment1.c
+ 1373  clear
+ 1374  gcc Day3_assignment1.c
+ 1375  clear
+ 1376  gcc Day3_assignment1.c
+ 1377  clear
+ 1378  gcc Day3_assignment1.c
+ 1379  clear
+ 1380  gcc Day3_assignment1.c
+ 1381  clear
+ 1382  gcc Day3_assignment1.c
+ 1383  clear
+ 1384  gcc Day3_assignment1.c
+ 1385  clear
+ 1386  gcc Day3_assignment1.c
+ 1387  clear
+ 1388  gcc Day3_assignment1.c
+ 1389  ./a.out
+ 1390  clear
+ 1391  gcc Day3_assignment1.c
+ 1392  ./a.out
+ 1393  clear
+ 1394  gcc Day3_assignment1.c
+ 1395  ./a.out
+ 1396  gcc Day3_assignment1.c
+ 1397  ./a.out
+ 1398  clear
+ 1399  gcc Day3_assignment1.c
+ 1400  ./a.out
+ 1401  gcc Day3_assignment1.c
+ 1402  ./a.out
+ 1403  gcc Day3_assignment1.c
+ 1404  clear
+ 1405  gcc Day3_assignment1.c
+ 1406  clear
+ 1407  gcc Day3_assignment1.c
+ 1408  ./a.out
+ 1409  gcc Day3_assignment1.c
+ 1410  ./a.out
+ 1411  clear
+ 1412  ./a.out
+ 1413  clear
+ 1414  gcc Day3_assignment1.c
+ 1415  clear
+ 1416  gcc Day3_assignment1.c
+ 1417  clear
+ 1418  gcc Day3_assignment1.c
+ 1419  clear
+ 1420  gcc Day3_assignment1.c
+ 1421  clear
+ 1422  gcc Day3_assignment1.c
+ 1423  ./a.out
+ 1424  clear
+ 1425  gcc Day3_assignment1.c
+ 1426  ./a.out
+ 1427  clear
+ 1428  gcc Day3_assignment1.c
+ 1429  ./a.out
+ 1430  gcc Day3_assignment1.c
+ 1431  ./a.out
+ 1432  gcc Day3_assignment1.c
+ 1433  ./a.out
+ 1434  gcc Day3_assignment2.c
+ 1435  clear
+ 1436  gcc Day3_assignment2.c
+ 1437  clear
+ 1438  gcc Day3_assignment2.c
+ 1439  clear4
+ 1440  clear
+ 1441  gcc Day3_assignment2.c
+ 1442  clear
+ 1443  gcc Day3_assignment2.c
+ 1444  clear
+ 1445  gcc Day3_assignment2.c
+ 1446  clear
+ 1447  gcc Day3_assignment2.c
+ 1448  ./a.out
+ 1449  clear
+ 1450  gcc Day3_assignment2.c
+ 1451  ./a.out
+ 1452  gcc Day3_assignment2.c
+ 1453  ./a.out
+ 1454  gcc Day3_assignment2.c
+ 1455  ./a.out
+ 1456  gcc Day3_assignment2.c
+ 1457  ./a.out
+ 1458  gcc Day3_assignment2.c
+ 1459  ./a.out
+ 1460  ./a.out
+ 1461  gcc Day3_assignment2.c
+ 1462  ./a.out
+ 1463  gcc Day3_assignment2.c
+ 1464  ./a.out
+ 1465  gcc Day3_assignment2.c
+ 1466  ./a.out
+ 1467  gcc Day3_assignment2.c
+ 1468  ./a.out
+ 1469  gcc Day3_assignment2.c
+ 1470  ./a.out
+ 1471  gcc Day3_assignment2.c
+ 1472  ./a.out
+ 1473  clear
+ 1474  gcc Day3_assignment2.c
+ 1475  clear
+ 1476  gcc Day3_assignment2.c
+ 1477  ./a.out
+ 1478  gcc Day3_assignment2.c
+ 1479  clear
+ 1480  gcc Day3_assignment2.c
+ 1481  gcc Day3_assignment2.c
+ 1482  ./a.out
+ 1483  clear
+ 1484  gcc Day3_assignment2.c
+ 1485  ./a.out
+ 1486  clear
+ 1487  gcc Day3_assignment2.c
+ 1488  clear
+ 1489  gcc Day3_assignment2.c
+ 1490  clear
+ 1491  gcc Day3_assignment2.c
+ 1492  clear
+ 1493  gcc Day3_assignment2.c
+ 1494  clear
+ 1495  gcc Day3_assignment2.c
+ 1496  clear
+ 1497  gcc Day3_assignment2.c
+ 1498  clear
+ 1499  gcc Day3_assignment2.c
+ 1500  clear
+ 1501  gcc Day3_assignment2.c
+ 1502  clear
+ 1503  gcc Day3_assignment2.c
+ 1504  clear
+ 1505  gcc Day3_assignment2.c
+ 1506  clear
+ 1507  gcc Day3_assignment2.c
+ 1508  clear
+ 1509  gcc Day3_assignment2.c
+ 1510  code .
+ 1511  gcc Day3_assignment2.c
+ 1512  clear
+ 1513  gcc Day3_assignment2.c
+ 1514  clear
+ 1515  gcc ma.c
+ 1516  ./a.out
+ 1517  clear
+ 1518  gcc Day3_assignment2.c
+ 1519  clear
+ 1520  gcc Day3_assignment2.c
+ 1521  clear
+ 1522  gcc Day3_assignment2.c
+ 1523  clear
+ 1524  gcc Day3_assignment2.c
+ 1525  clear
+ 1526  gcc Day3_assignment2.c
+ 1527  gcc Day3_assignment2.c
+ 1528  clear
+ 1529  gcc Day3_assignment2.c
+ 1530  ./a.out
+ 1531  clear
+ 1532  ./a.out
+ 1533  gcc Day3_assignment1.c
+ 1534  ./a.out
+ 1535  gcc Day3_assignment1.c
+ 1536  ./a.out
+ 1537  gcc Day3_assignment3.c
+ 1538  ./a.out
+ 1539  gcc Day3_assignment2.c
+ 1540  ./a.out
+ 1541  gcc Day3_assignment2.c
+ 1542  ./a.out
+ 1543  gcc ma.c
+ 1544  ./a.out
+ 1545  git pull
+ 1546  https://github.com/rshakya333/DSA_Assignment.git
+ 1547  git add .
+ 1548  https://github.com/E1-RAHUL-87357/DSA_Assignments.git
+ 1549  [200~git init
+ 1550  git init
+ 1551  https://github.com/E1-RAHUL-87357/DSA_Assignments.git
+ 1552  git add .
+ 1553  git commit -m "DSA_Assignments"
+ 1554  git push
+ 1555  git push
+ 1556  https://github.com/E1-RAHUL-87357/DSA_Assignments.git
+ 1557  git clone https://github.com/E1-RAHUL-87357/DSA_Assignments.git
+ 1558  code .c
+ 1559  code .
+ 1560  code .clear
+ 1561  code .
+ 1562  gcc practice_SLLL.c
+ 1563  clear
+ 1564  gcc practice_SLLL.c
+ 1565  clear
+ 1566  gcc practice_SLLL.c
+ 1567  clear
+ 1568  gcc practice_SLLL.c
+ 1569  clear
+ 1570  gcc practice_SLLL.c
+ 1571  ./a.out
+ 1572  clear
+ 1573  gcc practice_SLLL.c
+ 1574  ./a.out
+ 1575  gcc practice_SLLL.c
+ 1576  clear
+ 1577  gcc practice_SLLL.c
+ 1578  clear
+ 1579  gcc practice_SLLL.c
+ 1580  clear
+ 1581  gcc practice_SLLL.c
+ 1582  clear
+ 1583  gcc practice_SLLL.c
+ 1584  clear
+ 1585  gcc practice_SLLL.c
+ 1586  clear
+ 1587  gcc practice_SLLL.c
+ 1588  clear
+ 1589  clear
+ 1590  gcc practice_SLLL.c
+ 1591  ./a.out
+ 1592  git pull
+ 1593  ./a.out
+ 1594  code .
+ 1595  clear
+ 1596  gcc practice_SLLL.c
+ 1597  clear
+ 1598  gcc practice_SLLL.c
+ 1599  clear
+ 1600  gcc practice_SLLL.c
+ 1601  clear
+ 1602  gcc practice_SLLL.c
+ 1603  clear
+ 1604  gcc practice_SLLL.c
+ 1605  clear
+ 1606  gcc practice_SLLL.c
+ 1607  clear
+ 1608  gcc practice_SLLL.c
+ 1609  clear
+ 1610  gcc practice_SLLL.c
+ 1611  clear
+ 1612  gcc practice_SLLL.c
+ 1613  clear
+ 1614  gcc practice_SLLL.c
+ 1615  clear
+ 1616  gcc practice_SLLL.c
+ 1617  clear
+ 1618  gcc practice_SLLL.c
+ 1619  clear
+ 1620  gcc practice_SLLL.c
+ 1621  clear
+ 1622  gcc practice_SLLL.c
+ 1623  gcc practice_SLLL.c
+ 1624  clear
+ 1625  gcc practice_SLLL.c
+ 1626  code .
+ 1627  gcc practice_SCLL.c
+ 1628  clear
+ 1629  gcc practice_SCLL.c
+ 1630  clear
+ 1631  gcc practice_SCLL.c
+ 1632  clear
+ 1633  gcc practice_SCLL.c
+ 1634  clear
+ 1635  gcc practice_SCLL.c
+ 1636  clear
+ 1637  gcc practice_SCLL.c
+ 1638  ./a.out
+ 1639  clear
+ 1640  gcc practice_SCLL.c
+ 1641  ./a.out
+ 1642  gcc SCLL.c
+ 1643  ./a.out
+ 1644  clear
+ 1645  gcc SCLL.c
+ 1646  ./a.out
+ 1647  clear
+ 1648  code .
+ 1649  clear
+ 1650  gcc assignment_DAY6.c
+ 1651  code .
+ 1652  clear
+ 1653  gcc assignment_DAY6.c
+ 1654  clear
+ 1655  gcc assignment_DAY6.c
+ 1656  gcc BST.c
+ 1657  clear
+ 1658  gcc DCLL.c
+ 1659  ./a.out
+ 1660  clear
+ 1661  gcc SLLL.c
+ 1662  ./a.out
+ 1663  code .
+ 1664  gcc assignment1_DAY6.c
+ 1665  clear
+ 1666  gcc assignment1_DAY6.c
+ 1667  ./a.out
+ 1668  clear
+ 1669  git pull
+ 1670  code .
+ 1671  code .
+ 1672  gcc LAB_EXAM.c
+ 1673  gcc LAB_EXAM>c
+ 1674  gcc LAB_EXAM.c
+ 1675  gcc LAB_EXAM.c
+ 1676  clear
+ 1677  gcc LAB_EXAM.c
+ 1678  clear
+ 1679  gcc LAB_EXAM.c
+ 1680  clear
+ 1681  gcc LAB_EXAM.c
+ 1682  clear
+ 1683  gcc LAB_EXAM.c
+ 1684  clear
+ 1685  gcc LAB_EXAM.c
+ 1686  who
+ 1687  who |wc
+ 1688  sort fruit.txt|WC
+ 1689  clear
+ 1690  man tr
+ 1691  echo "Hello Desd"
+ 1692  echo "Hello desd" | tr " " "#"
+ 1693  "Hello----Desd"|tr -s "-"
+ 1694  echo "Hello----Desd"|tr -s "-"
+ 1695  echo "Hello----Desd"|tr -s "l"
+ 1696  echo "Hello----Desd"|tr -d "-"
+ 1697  echo "Hello----Desd"|tr -t "K"
+ 1698  echo "Hello----Desd"|tr -t "-" "k"
+ 1699  echo "Hello----Desd"|tr -t "a-zA-Z" "A-Z"
+ 1700  echo "Hello----Desd"|tr -t "a-zA-Z" "A-Z a-z" 
+ 1701  echo "C-programing MCPI DSA EOS RTOS"| cut -d " " -f1 
+ 1702  echo "C-programing MCPI DSA EOS RTOS"| cut -d " " -f2 
+ 1703  echo "C-programing MCPI DSA EOS RTOS"| cut -d " " -f3 
+ 1704  echo "C-programing MCPI DSA EOS RTOS"| cut -d " " -f4
+ 1705  echo "C-programing MCPI DSA EOS RTOS"| cut -d " " -f5
+ 1706  echo "C-programing MCPI DSA EOS RTOS"| cut -d " " -f1,2,3 
+ 1707  git clone http://github.com/sunbeam-desd-aug24/EOS.git
+ 1708  git clone http://github.com/sunbeam-desd-aug24/eos.git
+ 1709  cat > tasty.txt
+ 1710  cat > demo.txt
+ 1711  grep "d.c" demo.txt
+ 1712  grep "b.g" demo.txt
+ 1713  grep "b[a]g" demo.txt
+ 1714  grep "b[aio]g" demo.txt
+ 1715  grep "b[A-Z]g" demo.txt
+ 1716  grep "b*g" demo.txt
+ 1717  fgrep "b*g" demo.txt
+ 1718  clear
+ 1719  cat > patt.txt
+ 1720  grep "bi*g" patt.txt
+ 1721  grep "bi?g" patt.txt
+ 1722  egrep "bi?g" patt.txt
+ 1723  cat >> patt.txt
+ 1724  grep -E -n "bi+g" patt.txt
+ 1725  egrep -n "bi{2}g" patt.txt
+ 1726  egrep -n "bi{,3}g" patt.txt
+ 1727  egrep -n "bi{2,}g" patt.txt
+ 1728  egrep -n "bi{2,4}g" patt.txt
+ 1729  egrep -n "bbi{2,4}g" patt.txt
+ 1730  egrep -n "b(i){2,4}g" patt.txt
+ 1731  egrep -n "b(ig){2,4}g" patt.txt
+ 1732  egrep -n "b(i|g){2,4}g" patt.txt
+ 1733  ls
+ 1734  ps
+ 1735  top
+ 1736  git pull
+ 1737  https://github.com/E1-RAHUL-87357/Assignments_EOS.git
+ 1738  git clone https://github.com/E1-RAHUL-87357/Assignments_EOS.git~
+ 1739  git clone https://github.com/E1-RAHUL-87357/Assignments_EOS.git
+ 1740  demo.sh
+ 1741  vim demo1.sh
+ 1742  bash demo1.sh
+ 1743  clear
+ 1744  bash demo2.sh
+ 1745  vim demo2.sh
+ 1746  clear
+ 1747  bash demo2.sh
+ 1748  vim demo2.sh
+ 1749  vim demo3.sh
+ 1750  bash demo3.sh
+ 1751  vim demo3.sh
+ 1752  clear
+ 1753  vim demo4.sh
+ 1754  bash demo4.sh
+ 1755  expr 10 + 2
+ 1756  expr 10-2
+ 1757  expr 10 / 2
+ 1758  10 * 2
+ 1759  expr 10 \* 2
+ 1760  vim demo4.sh
+ 1761  bash demo4.sh
+ 1762  clear
+ 1763  vim demo4.sh
+ 1764  bash demo4.sh
+ 1765  vim demo5.sh
+ 1766  bash demo5.sh
+ 1767  wq
+ 1768  clear
+ 1769  echo "scale = 2 10 / 3" |bc 
+ 1770  echo "scale = 2,10 / 3" |bc 
+ 1771  clear
+ 1772  vim demo6.sh
+ 1773  bash demo6.sh
+ 1774  vim demo6.sh
+ 1775  bash demo6.sh
+ 1776  vim demo6.sh
+ 1777  bash demo6.sh
+ 1778  vim demo6.sh
+ 1779  git pull
+ 1780  man man
+ 1781  uname
+ 1782  pwd
+ 1783  hostname
+ 1784  date
+ 1785  cal
+ 1786  ls
+ 1787  dir
+ 1788  sudo apt install ncal
+ 1789  cal
+ 1790  dir
+ 1791  cat rahul.txt
+ 1792  cat 
+ 1793  cat > rahul.txt
+ 1794  ls
+ 1795  cat rahul.txt
+ 1796  cat >> rahul.txt
+ 1797  cat rahul.txt
+ 1798  cp
+ 1799  git clone http://github.com/sunbeam-desd-aug24/eos.git
+ 1800  vim demo7.sh
+ 1801  bash demo7.sh
+ 1802  vim demo8.sh
+ 1803  bash demo8.sh
+ 1804  vim demo8.sh
+ 1805  bash demo8.sh
+ 1806  vim demo8.sh
+ 1807  bash demo8.sh
+ 1808  vim demo8.sh
+ 1809  bash demo8.sh
+ 1810  :wq
+ 1811  clear
+ 1812  bash demo8.sh
+ 1813  we
+ 1814  clear
+ 1815  bash demo8.sh
+ 1816  clear
+ 1817  vim demo8.sh
+ 1818  bash demo8.sh
+ 1819  vim demo8.sh
+ 1820  bash demo8.sh
+ 1821  vim demo8.sh
+ 1822  bash demo8.sh
+ 1823  vim demo8.sh
+ 1824  bash demo8.sh
+ 1825  clear
+ 1826  vim demo8.sh
+ 1827  bash demo8.sh
+ 1828  vim demo8.sh
+ 1829  bash demo8.sh
+ 1830  vim demo8.sh
+ 1831  bash demo8.sh
+ 1832  vim demo8.sh
+ 1833  cleae
+ 1834  clear
+ 1835  vim demo9.sh
+ 1836  bash demo9.sh
+ 1837  vim demo9.sh
+ 1838  bash demo9.sh
+ 1839  vim demo9.sh
+ 1840  bash demo9.sh
+ 1841  clear
+ 1842  bash demo8.sh
+ 1843  vim demo8.sh
+ 1844  bash demo8.sh
+ 1845  man man
+ 1846  man
+ 1847  man man
+ 1848  clear
+ 1849  man man
+ 1850  clear
+ 1851  man man
+ 1852  uname
+ 1853  pwd
+ 1854  hostname
+ 1855  date
+ 1856  cal
+ 1857  ls
+ 1858  dir
+ 1859  cat
+ 1860  cat > cat.txt
+ 1861  cat cat.txt
+ 1862  cat>>cat.txt
+ 1863  cp cat.txt abc
+ 1864  ls
+ 1865  tac.txt
+ 1866  mv cat.txt xyz
+ 1867  ls xyz
+ 1868  mv xyz zyx
+ 1869  ls
+ 1870  tac.txt
+ 1871  tac rahul.txt
+ 1872  rev rahul.txt
+ 1873  wc nikh.txt
+ 1874  wc rahul.txt
+ 1875  cat > rahul.txt
+ 1876  alias
+ 1877  unalias
+ 1878  echo
+ 1879  git pull
+ 1880  git push
+ 1881  git clone https://github.com/E1-RAHUL-87357/EOS_Assignment_Solution.git
+ 1882  git add .
+ 1883  git commit -m "EOS_Assignment"
+ 1884  git push
+ 1885  man ls
+ 1886  mkdir demo
+ 1887  cd demo
+ 1888  touch demo1.txt
+ 1889  touch demo2.txt
+ 1890  cat < demo1.txt
+ 1891  cat > demo1.txt
+ 1892  cat demo1.txt
+ 1893  sort demo1.txt
+ 1894  rahul
+ 1895  cat demo1.txt
+ 1896  cat demo2.txt
+ 1897  cat > demo2.txt
+ 1898  cat demo2.txt
+ 1899  sort demo2.txt
+ 1900  man ls
+ 1901  ls -t
+ 1902  man ls
+ 1903  ls -s
+ 1904  man ls
+ 1905  ls -i
+ 1906  man ls
+ 1907  touch myfile.txt
+ 1908  cat < myfile.txt
+ 1909  cat > myfile.txt
+ 1910  cat myfile.txt
+ 1911  cat >> myfile.txt
+ 1912  cat myfile.txt
+ 1913  ls -l -h
+ 1914  touch myfile.txt
+ 1915  ls -l -h
+ 1916  touch result.txt
+ 1917  history > result.txt
+ 1918  ls
+ 1919  ls -l -h
+ 1920  touch man
+ 1921  man touch
+ 1922  touch myfile.txt
+ 1923  ls -l -h
+ 1924  mk dir
+ 1925  mkdir one
+ 1926  cd one
+ 1927  touch 1.txt 11.txt 111.txt
+ 1928  mkdir two
+ 1929  cd two
+ 1930  touch 2.txt 22.txt 222.txt
+ 1931  mkdir three
+ 1932  cd three
+ 1933  touch 3.txt 22.txt 222.txt
+ 1934  mkdir three 
+ 1935  cd three
+ 1936  touch 3.txt 33.txt 333.txt
+ 1937  mkdir four
+ 1938  cd four
+ 1939  touch 4.txt 44.txt 444.txt
+ 1940  mkdir fivetouch 5.txt 55.txt 555.txt
+ 1941  ls
+ 1942  cd ~
+ 1943  ls
+ 1944  history > assign2.txt
+ 1945  man man
+ 1946  uname
+ 1947  pwd
+ 1948  hostname
+ 1949  date
+ 1950  cal
+ 1951  ls
+ 1952  dir
+ 1953  cat > cat.txt
+ 1954  cat cat.txt
+ 1955  cat >> cat.txt
+ 1956  cp
+ 1957  mkdir one two
+ 1958  mkdir one
+ 1959  mkdir abc xyz
+ 1960  cp cat.txt abc
+ 1961  ls
+ 1962  ls abc
+ 1963  mv cat.txt xyz
+ 1964  ls xyz
+ 1965  mv xyz zyx
+ 1966  ls
+ 1967  cat > rahul.txt
+ 1968  cat >> rahul.txt
+ 1969  ls abc
+ 1970  cat > rahul.txt
+ 1971  cat >> rahul.txt
+ 1972  cat > Rahul Shakya.txt
+ 1973  tac rahul.txt
+ 1974  rev rahul.txt
+ 1975  wc rahul.txt
+ 1976  mkdir
+ 1977  sudo apt install mkdir
+ 1978  cat > rahul.txt
+ 1979  head rahul.txt
+ 1980  tail rahul.txt
+ 1981  cat > rahul.txt
+ 1982  factor
+ 1983  alias
+ 1984  alias nikh.txt
+ 1985  ps
+ 1986  kill
+ 1987  env
+ 1988  man ls
+ 1989  git pull
+ 1990  man ls
+ 1991  mkdir demo
+ 1992  cd demo
+ 1993  touch demo1.txt
+ 1994  touch demo2.txt
+ 1995  cat < demo1.txt
+ 1996  cat > demo1.txt
+ 1997  cat demo1.txt
+ 1998  sort demo1.txt
+ 1999  cat demo2.txt
+ 2000  cat > demo2.txt
+ 2001  man ls
+ 2002  ls -t
+ 2003  man ls
+ 2004  ls -s
+ 2005  man ls
+ 2006  ls -i
+ 2007  man ls
+ 2008  touch myfile.txt
+ 2009  cat < myfile.txt
+ 2010  cat > myfile.txt
+ 2011  cat myfile.txt
+ 2012  cat >> myfile.txt
+ 2013  ls -l -h
+ 2014  touch myfile.txt
+ 2015  ls -l -h
+ 2016  touch result.txt
+ 2017  history > result.txt
